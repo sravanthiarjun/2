@@ -1,0 +1,46 @@
+ .one{
+     color:black;
+}
+ .two {
+     float:left;
+     margin-left:20px;
+     color:green;
+}
+ .three{
+     float:left;
+     margin-left:20px;
+     color:blue;
+}
+ .four{
+     float:left;
+     margin-left:20px;
+     color:black;
+}
+ .five{
+     float:left;
+     margin-left:20px;
+     color:red;
+     margin-top:40px;
+}
+ .six{
+     float:left;
+     margin-left:20px;
+     color:blue;
+     margin-top:40px;
+}
+ .two:hover{
+     background-color:red;
+}
+ .three:hover{
+     background-color:green;
+}
+ .four:hover{
+     background-color:blue;
+}
+ .five:hover{
+     background-color:orange;
+}
+ .six:hover{
+     background-color:black;
+}
+
