@@ -13,5 +13,5 @@ nenu = media.Movie("nenulocal", "girl was afraid of her father",
 gol = media.Movie("golmol", "friendship and honest movie",
                   "https://bit.ly/2kcHbu1", "https://bit.ly/2GFfuTs")
 
-movies = [ranga, ok, love, nenu, gol]
+#movies = [ranga, ok, love, nenu, gol]
 fresh_tomatoes.open_page(movies)
