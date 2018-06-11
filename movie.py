@@ -12,6 +12,6 @@ nenu = media.Movie("nenulocal", "girl was afraid of her father",
                    "https://bit.ly/2ID6a8C", "https://bit.ly/2LjF2ZK")
 gol = media.Movie("golmol", "friendship and honest movie",
                   "https://bit.ly/2kcHbu1", "https://bit.ly/2GFfuTs")
-
+#list of movies we have taken and it is defined by movies
 movies = [ranga, ok, love, nenu, gol]
 fresh_tomatoes.open_page(movies)
