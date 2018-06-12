@@ -1,11 +1,11 @@
-firstly create a html file movie.html
-in that html needs some movie pictures so in that way by using internet i will search movie images and copy the link copy and paste in to html.
-i can use more websites .coz to copy the images and links allso.
-after that crete my css file in that css we can use more tags so easily we can check more websites and i will search but i will prefer it is easily understand then only i will prefer that website otherwise i can go to another website.
-after that in html we have to design css so i will use more tags in css and by using w3 schools.
-after that i can execute my file via chrome it will be displyed on my desktop.
-after that i can check port and i will set all measurements like that.
-entire program most probably done .
-login my github account.
-after that i will upload my files in github.
-then go to my classroom and open my movie trailer project and click submit the project so automatically through github click in that way i submit my project.
+firstly i will create html file in html file we have to insert images and you tube link so by using browser i can search put into them.
+after that we have to implement css right .so in that way by using w3 schools i can use many tags and so on..
+after that i will create 3 python files like
+*fresh_tomotoes.py
+*media.py
+*movie.py
+the main folder is movie.py so it will be the final output on our desktop or laptop
+in movie.pywe can insert movie image and youtube link and story and movie name again one function can be created in that i will write those images and lastly i will call that particular function.
+and in fresh_tomotoes.py we have to insert html and css and js files.
+after that media.py file can be used only in that functions can be implement only movie.py file.so in that way we have to design.
+finally i upload my files into github and then submit my project.
